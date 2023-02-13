@@ -1,2 +1,2 @@
 # Statistics
-Expence tracker with interactive pie charts.
+Expense tracker with interactive pie charts.
